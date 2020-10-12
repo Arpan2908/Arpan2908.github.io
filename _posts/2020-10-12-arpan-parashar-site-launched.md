@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: "Arpan Parashar, MSGIS student, Launches Site"
 date: 2020-10-12
 ---
